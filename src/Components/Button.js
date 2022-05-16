@@ -7,8 +7,8 @@ const StyledButton = styled.button`
   color: white;
 `;
 
-const Button=()=>{
-  return <StyledButton>click here</StyledButton>
-}
+const Button = () => {
+  return <StyledButton>click here</StyledButton>;
+};
 
-export default Button
+export default Button;
